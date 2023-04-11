@@ -13,7 +13,7 @@ https://www.cdc.gov/nchs/nhis/SHS/tables.htm
 https://ghdx.healthdata.org/record/ihme-data/united-states-life-expectancy-by-state-white-black-hispanic-race-ethnicity-1990-2019 
 
 ## Background
-The dataset we have chosen to work with is the Alcohol Use dataset, provided on the CDC website (https://www.cdc.gov/nchs/fastats/alcohol.htm), and this data on Excessive Drinking (https://www.cdc.gov/alcohol/data-stats.htm). This dataset provides information on alcohol use, including age, type, and more. There are several use cases for this dataset, including public health, education in public schools, or general awareness. 
+The dataset we have chosen to work with is the Alcohol Use dataset, provided on the CDC website, and this data on Excessive Drinking. This dataset provides information on alcohol use, including age, type, and more. There are several use cases for this dataset, including public health, education in public schools, or general awareness. 
 
 There are several issues that we can associate with excessive alcohol use. Excessive alcohol use is common and costly. It is also associated with an increased risk of injuries, chronic diseases such as liver and heart disease, several cancers, and poor pregnancy outcomes.
 
