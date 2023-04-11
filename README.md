@@ -1,8 +1,9 @@
 # IE6600-final-project
 ## Project Title: Alcohol Use
 ## Datasets
-1.US Binge Drinking Frequency by State - CDC
- https://www.cdc.gov/alcohol/data-stats.htm 
+1. US Binge Drinking Frequency by State - CDC
+
+https://www.cdc.gov/alcohol/data-stats.htm 
 
 
 2. Alcohol Drinking Status Among Adults (Age 18+) in the US by Selected Characteristics, 2015 to 2019 - CDC
