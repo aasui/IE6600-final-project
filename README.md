@@ -21,3 +21,9 @@ There are several issues that we can associate with excessive alcohol use. Exces
 The purpose of this project is to analyze the influences towards health problems, alcohol-induced deaths caused by excessive drinking, by visualizing the alcohol use in different age groups in the US, which may positively help to educate the public about alcohol use trends, to support advocacy efforts for alcohol policy reform, and to inform public health interventions or support healthcare providers in diagnosing and treating patients with alcohol use disorder. 
 
 For this project, we will be developing a dashboard that allows users to explore the CDC’s alcohol use with more detail, including features such as creating customized charts, generating maps that show regional data with alcohol consumption, or other infographic reports to show insights and key findings about alcohol use. 
+
+
+## Methods
+
+We will use exploratory data analysis techniques to understand the data better and determine relationships between variables. Techniques include data cleaning and wrangling to prepare the data for analysis, and univariate and correlation analysis to generate insights for the user to interact with in the dashboard. We will also use modeling and visualization techniques to create infographics and other visuals to communicate the key insights in a more digestible format.  
+R will be used for data analysis and visualization, and RShiny will be used to develop the interactive dashboard which will allow users to explore the alcohol use data in detail. 
